@@ -1,0 +1,12 @@
+HTML Tutoril
+
+ html is the standard markup language for web pges
+ with html you can create your own website
+ 
+
+ CSS Tutoril
+
+
+ css in the language we use to style an html document 
+ css describes how html elwmwnts should be displayed
+ this Tutoril will teach you css from basic to advanced
